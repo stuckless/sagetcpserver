@@ -1,0 +1,6 @@
+.gradle/
+build/
+out/
+lib/
+.idea/
+deployed/
